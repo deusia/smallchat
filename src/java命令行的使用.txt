@@ -1,0 +1,5 @@
+cd 进入目录
+
+javac ../sourse *.java 把 .java后缀的文件放入source的文件目录之下
+
+java 用于运行java的文件
